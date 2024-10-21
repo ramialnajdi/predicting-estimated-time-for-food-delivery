@@ -34,6 +34,6 @@ The project follows these key steps:
 The analysis yielded a predictive model with good accuracy in estimating food delivery time. 
 
 ## Usage
-[Kaggle notebook](https://www.kaggle.com/code/ramialnagdi/predicting-estimated-time-for-food-delivery/edit/run/200335428)
+[Kaggle notebook](https://www.kaggle.com/code/ramialnagdi/predicting-estimated-time-for-food-delivery)
 
 
